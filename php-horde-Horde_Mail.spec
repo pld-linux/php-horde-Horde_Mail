@@ -18,7 +18,7 @@ BuildRequires:	rpm-php-pearprov >= 4.4.2-11
 BuildRequires:	rpmbuild(macros) >= 1.610
 Requires:	php-channel(pear.horde.org)
 Requires:	php-horde-Horde_Exception < 2.0.0
-Requires:	php-pear
+Requires:	php-pear >= 4:1.3.6-2
 Suggests:	php-pear-Net_DNS2
 Suggests:	php-pear-Net_SMTP
 BuildArch:	noarch
