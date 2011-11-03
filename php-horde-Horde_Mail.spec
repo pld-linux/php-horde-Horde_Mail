@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Mail Library
 Name:		php-horde-Horde_Mail
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	66e63ac8519d91c777217a85914a1d15
+# Source0-md5:	be672609c491d42d4f60a59284930fb9
 URL:		https://github.com/horde/horde/tree/master/framework/Mail/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
