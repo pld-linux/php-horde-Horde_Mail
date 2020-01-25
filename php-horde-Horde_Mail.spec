@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Mail
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Mail Library
 Name:		php-horde-Horde_Mail
 Version:	1.2.0
